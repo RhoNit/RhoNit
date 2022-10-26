@@ -1,25 +1,15 @@
 <h1 align="center">
-  Hi there 👋</br>
-  I'm Ranit Biswas :)</br>
+  Hey everyone!</br>
+  It's me Ranit :)</br>
   <img src="./media/ranit-hero.gif" align="left" />
 </h1>
 
-```shell
-  🏫 CS graduate from SCOE, Pune
-  🔎 Holds key interest in Backend Development & DB Schema Design
+```
+  🧑🏻‍💻 Working at SAS
+  <img src="./media/sas-glyph.png" width=15>
+  👨🏻‍🎓 CS graduate from SCOE, Pune
+  🚀 Holds key interest in Backend Development & Databases
+  🛠️ Main Languages: C++, Python
+  🤖 Currently I'm learning Rust🦀
 ```
 
-<!--
-**RhoNit/RhoNit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
