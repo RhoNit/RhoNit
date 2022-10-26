@@ -4,7 +4,7 @@
   <img src="./media/ranit-hero.gif" align="left" />
 </h1>
 
-```posh
+```shell
   🏫 CS graduate from SCOE, Pune
   🔎 Holds key interest in Backend Development & DB Schema Design
 ```
