@@ -1,10 +1,14 @@
 
 <div>
   <h1 align="center">
-    Hey everyone!<br>
-    <p>It's me Ranit, Software Engineer Intern at <img src="./media/sas-glyph.jpg" width=30 /></p>
-    <img src="./media/ranit-hero.gif" align="left" />
+    Hey everyone! <br>
+    <p>
+      It's me, Ranit... Software Engineer Intern at <img src="./media/sas-glyph.jpg" width=30 />
+    </p>
   </h1>
+</div>
+
+<img src="./media/ranit-hero.gif" align="left" />
 
   ```
     👨🏻‍🎓 CS graduate from SCOE, Pune
@@ -14,7 +18,7 @@
     📧 Drop me a mail at (ranitbiswas.cs@gmail.com)
   ```
   ![profile count](https://komarev.com/ghpvc/?username=RhoNit&color=green) <br><br><br><br><br>
-<div>
+
 
 <h2 align="left">👀 GitHub Stats</h2>
 <div>
