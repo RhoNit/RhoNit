@@ -17,7 +17,7 @@
     🧑🏻‍💻 Currently I'm learning and tinkering with Rust🦀
     📧 Drop me a mail at (ranitbiswas.cs@gmail.com)
   ```
-  ![profile count](https://komarev.com/ghpvc/?username=RhoNit&color=green) <br><br><br><br><br>
+  ![profile count](https://komarev.com/ghpvc/?username=RhoNit&color=green) <br><br><br><br><br><br>
 
 
 <h2 align="left">👀 GitHub Stats</h2>
