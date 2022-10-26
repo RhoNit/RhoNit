@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi there 👋</br>
   I'm Ranit Biswas :)</br>
-  <img src="./media/ranit-hero.gif" align="center" />
+  <img src="./media/ranit-hero.gif" align="left" />
+  '''
+  :man-student: CS graduate from :s::c::o::e:, Pune
 </h1>
 
 <!--
