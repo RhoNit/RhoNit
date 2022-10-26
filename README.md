@@ -16,6 +16,6 @@
 <br>
 
 <h1 align="left">👀 GitHub Stats</h1>
-  <a href="https://github.com/RhoNit"><img src="https://github-readme-stats.vercel.app/api?username=RhoNit&theme=radical&title_color=0017ff"></a>
+  <a href="https://github.com/RhoNit"><img src="https://github-readme-stats.vercel.app/api?username=RhoNit&theme=radical&title_color=0017ff"></a> <br>
   <a href="https://github.com/RhoNit"><img src="http://github-readme-streak-stats.herokuapp.com/?user=RhoNit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=0017ff&fire=0017ff&sideNums=0017ff"></a>
 
