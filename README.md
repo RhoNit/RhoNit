@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋</br>
+  I'm Ranit Biswas :)</br>
+  <img src="./media/ranit-hero.gif" align="center" />
+</h1>
 
 <!--
 **RhoNit/RhoNit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
