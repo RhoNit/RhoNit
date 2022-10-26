@@ -2,10 +2,12 @@
   Hi there 👋</br>
   I'm Ranit Biswas :)</br>
   <img src="./media/ranit-hero.gif" align="left" />
-  ```
-  🏫 CS graduate from SCOE, Pune
-  ```
 </h1>
+
+```console
+  🏫 CS graduate from SCOE, Pune
+  🔎 Holds key interest in Backend Development & DB Schema Design
+```
 
 <!--
 **RhoNit/RhoNit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
