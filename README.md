@@ -1,8 +1,13 @@
 <h1 align="center">
   Hi there 👋</br>
   I'm Ranit Biswas :)</br>
-  <img src="./media/ranit-hero.gif" align="center" />
+  <img src="./media/ranit-hero.gif" align="left" />
 </h1>
+
+```shell
+  🏫 CS graduate from SCOE, Pune
+  🔎 Holds key interest in Backend Development & DB Schema Design
+```
 
 <!--
 **RhoNit/RhoNit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
