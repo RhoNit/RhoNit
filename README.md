@@ -2,8 +2,9 @@
   Hi there 👋</br>
   I'm Ranit Biswas :)</br>
   <img src="./media/ranit-hero.gif" align="left" />
-  '''
-  :man-student: CS graduate from :s::c::o::e:, Pune
+  ```
+  🏫 CS graduate from SCOE, Pune
+  ```
 </h1>
 
 <!--
