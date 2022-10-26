@@ -5,7 +5,7 @@
   <h1 align="center">
     Hey everyone! <br>
     <p>
-      It's me, Ranit... Software Engineer Intern at <img src="./media/sas-glyph.jpg" width=30 />
+      It's me, Ranit... Software Engineer Intern at <img src="./media/sas-glyph.jpg" width=40 />
     </p>
   </h1>
 </div>
