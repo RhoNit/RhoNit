@@ -15,7 +15,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=RhoNit&color=green)
 <br>
 
-<h1 align="left">👀 GitHub Stats</h1>
-<a href="https://github.com/RhoNit" align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=RhoNit&theme=radical&title_color=0017ff"></a>
-<a href="https://github.com/RhoNit" align="right"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=RhoNit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=0017ff&fire=0017ff&sideNums=0017ff"></a>
+<h2>👀 GitHub Stats</h2>
+<a href="https://github.com/RhoNit" align="left"><img src="https://github-readme-stats.vercel.app/api?username=RhoNit&theme=radical&title_color=0017ff"></a>
+<a href="https://github.com/RhoNit" align="right"><img src="http://github-readme-streak-stats.herokuapp.com/?user=RhoNit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=0017ff&fire=0017ff&sideNums=0017ff"></a>
 
