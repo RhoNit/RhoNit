@@ -16,6 +16,13 @@
 <br>
 
 <h2>👀 GitHub Stats</h2>
-<a href="https://github.com/RhoNit" align="left"><img src="https://github-readme-stats.vercel.app/api?username=RhoNit&theme=radical&title_color=0017ff"></a>
-<a href="https://github.com/RhoNit" align="right"><img src="http://github-readme-streak-stats.herokuapp.com/?user=RhoNit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=0017ff&fire=0017ff&sideNums=0017ff"></a>
+<div>
+  <a href="https://github.com/RhoNit">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RhoNit&theme=radical&title_color=0017ff&hide_border=true">
+  </a>
+
+  <a href="https://github.com/RhoNit">
+    <img width="49%" src="http://github-readme-streak-stats.herokuapp.com/?api&count_private=true&include_all_commits=true&user=RhoNit&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=0017ff&fire=0017ff&sideNums=0017ff&hide_border=true">
+  </a>
+</div>
 
