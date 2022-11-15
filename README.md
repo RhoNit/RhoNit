@@ -5,7 +5,7 @@
   <h1 align="center">
     Hey everyone! <br>
     <p>
-      It's me, Ranit... Software Engineer at <img src="./media/sas-glyph.jpg" width=40 />
+      It's me, Ranit... working at <img src="./media/sas-glyph.jpg" width=40 /> mostly on Backend (Data Platform)
     </p>
   </h1>
 </div>
