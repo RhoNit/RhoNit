@@ -35,7 +35,7 @@
   </a>
     
   <a href="https://github.com/RhoNit">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RhoNit&style=for-the-badge&color=E1AD0E&lcolor=c79600&logo=AngelList&logoColor=white"/>
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RhoNit&style=for-the-badge&color=E1AD0E&lcolor=c79600&logo=Ghostery&logoColor=white"/>
   </a>
 </p>
 
