@@ -43,6 +43,34 @@
 <br>
 <br>
 
+## 🚀 My Skill Set  
+<table><tr><td valign="top" width="100%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="100%">
+
+
+
+### Databases  
+<div align="center">  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+
+
+</td></tr></table>  
+
+<br/>  
+
 <h2 align="left">👀 GitHub Stats</h2>
 <div>
   <a href="https://github.com/RhoNit">
