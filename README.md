@@ -15,8 +15,8 @@
 ```
   👨🏻‍🎓 CS graduate from SCOE, Pune
   🚀 Holds key interest in Backend Development & Databases
-  🛠️ Main Languages: C++, Python
-  🧑🏻‍💻 Currently I'm learning and tinkering with Rust🦀
+  🛠️ Main Languages: C++, Python, Rust
+  🧑🏻‍💻 Currently I'm learning Diesel & looking for opportunities in Rust🦀
   📧 If you wanna connect with me, plz drop me a mail
 ```
 <br>
@@ -34,9 +34,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RhoNit?color=e05d44&labelColor=ce4630&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
     
-  <a href="https://github.com/RhoNit">
+  <!-- <a href="https://github.com/RhoNit">
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RhoNit&style=for-the-badge&color=E1AD0E&lcolor=c79600&logo=Ghostery&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <br>
@@ -48,12 +48,11 @@
 
 
 
-### Backend  
+### Lang & ORM 
 <div align="center">  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://diesel.rs/" target="_blank"><img style="margin: 10px" src="https://diesel.rs/assets/images/diesel_logo_stacked_black.png" alt="Diesel" height="50" /></a>
 </div>
 
 </td><td valign="top" width="50%">
@@ -63,6 +62,7 @@
 ### Databases  
 <div align="center">  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+
 </div>
 
 
