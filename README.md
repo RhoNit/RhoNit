@@ -48,11 +48,14 @@
 
 
 
-### Lang & ORM 
+### Backend 
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-<a href="https://diesel.rs/" target="_blank"><img style="margin: 10px" src="https://diesel.rs/assets/images/diesel_logo_stacked_black.png" alt="Diesel" height="50" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="60" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="60" /></a>  
+  <a href="https://rocket.rs/" target="_blank"><img style="margin: 10px" src="https://rocket.rs/images/logo-boxed.png" alt="Rocket" height="50" /></a>  
+  <a href="https://actix.rs/" target="_blank"><img style="margin: 10px" src="https://actix.rs/img/logo-icon.png" alt="Actix-web" height="60" /></a>  
+
 </div>
 
 </td><td valign="top" width="50%">
@@ -61,10 +64,11 @@
 
 ### Databases  
 <div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
+  <a href="https://diesel.rs/" target="_blank"><img style="margin: 10px" src="https://diesel.rs/assets/images/diesel_logo_stacked_black.png" alt="Diesel" height="60" /></a>
+  <a href="https://www.sea-ql.org/SeaORM/" target="_blank"><img style="margin: 10px" src="https://www.sea-ql.org/SeaORM/img/SeaORM%20logo.png" alt="SeaORM" height="70" /></a>
 
 </div>
-
 
 
 </td></tr></table>  
