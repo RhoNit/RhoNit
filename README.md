@@ -51,9 +51,10 @@
 ### Backend 
 <div align="center">  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="60" /></a>
+<!--   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="60" /></a> -->
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="60" /></a>  
-  <a href="https://rocket.rs/" target="_blank"><img style="margin: 10px" src="https://rocket.rs/images/logo-boxed.png" alt="Rocket" height="50" /></a>  
+<!--   <a href="https://rocket.rs/" target="_blank"><img style="margin: 10px" src="https://rocket.rs/images/logo-boxed.png" alt="Rocket" height="50" /></a>   -->
+  <a href="https://docs.rs/axum/latest/axum/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Tokio_logo.svg" alt="Axum" height="60" /></a>
   <a href="https://actix.rs/" target="_blank"><img style="margin: 10px" src="https://actix.rs/img/logo-icon.png" alt="Actix-web" height="60" /></a>  
 
 </div>
