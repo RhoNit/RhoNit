@@ -5,7 +5,7 @@
   <h1 align="center">
     Hey everyone! 👋🏻<br>
     <p>
-      It's me, Ranit... Software Engineer at <img src="./media/sas-glyph.jpg" width=40 />
+      It's me, Ranit... Software Engineer at...  <img src="https://www.incedoinc.com/wp-content/uploads/incedo-logo.png" width=200 />
     </p>
   </h1>
 </div>
@@ -15,8 +15,8 @@
 ```
   👨🏻‍🎓 CS graduate from SCOE, Pune
   🚀 Holds key interest in Backend Development & Databases
-  🛠️ Main Languages: C++, Python, Rust
-  🧑🏻‍💻 Currently I'm learning Diesel & looking for opportunities in Rust🦀
+  🛠️ Main Languages: Go, Rust, C++, Python
+  🧑🏻‍💻 Currently I'm crafting my skill in Go-ecosystem & looking for opportunities in golang backend development
   📧 If you wanna connect with me, plz drop me a mail
 ```
 <br>
@@ -48,14 +48,22 @@
 
 
 
-### Backend 
+### Backend Languages/Frameworks/Caching/Logging/MQs
 <div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
-<!--   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="60" /></a> -->
+  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="60" /></a>
+  <a href="https://echo.labstack.com/" target="_blank"><img style="margin: 10px" src="https://echo.labstack.com/img/logo-light.svg" alt="Echo" height="60" /></a>
+  <a href="https://redis.uptrace.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1529926" alt="go-redis" height="60" /></a>
+  <a href="https://pkg.go.dev/go.uber.org/zap" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/uber-go/zap/v1.27.0/assets/logo.png" alt="zap" height="60" /></a>
+  
+
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="60" /></a>  
 <!--   <a href="https://rocket.rs/" target="_blank"><img style="margin: 10px" src="https://rocket.rs/images/logo-boxed.png" alt="Rocket" height="50" /></a>   -->
   <a href="https://docs.rs/axum/latest/axum/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Tokio_logo.svg" alt="Axum" height="60" /></a>
-  <a href="https://actix.rs/" target="_blank"><img style="margin: 10px" src="https://actix.rs/img/logo-icon.png" alt="Actix-web" height="60" /></a>  
+  <!-- <a href="https://actix.rs/" target="_blank"><img style="margin: 10px" src="https://actix.rs/img/logo-icon.png" alt="Actix-web" height="60" /></a> -->
+  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" /></a>  
+<!--   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="60" /></a> -->
+    
 
 </div>
 
@@ -63,11 +71,12 @@
 
 
 
-### Databases  
+### Databases/ORMs  
 <div align="center">  
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a> 
+  <a href="https://gorm.io/index.html" target="_blank"><img style="margin: 10px" src="https://gorm.io/gorm.svg" alt="gorm" height="60" /></a> 
   <a href="https://diesel.rs/" target="_blank"><img style="margin: 10px" src="https://diesel.rs/assets/images/diesel_logo_stacked_black.png" alt="Diesel" height="60" /></a>
-  <a href="https://www.sea-ql.org/SeaORM/" target="_blank"><img style="margin: 10px" src="https://www.sea-ql.org/SeaORM/img/SeaORM%20logo.png" alt="SeaORM" height="70" /></a>
+  <!-- <a href="https://www.sea-ql.org/SeaORM/" target="_blank"><img style="margin: 10px" src="https://www.sea-ql.org/SeaORM/img/SeaORM%20logo.png" alt="SeaORM" height="70" /></a> -->
 
 </div>
 
