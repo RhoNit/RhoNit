@@ -1,5 +1,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranit-biswas/)
 [![Gmail](https://img.shields.io/badge/gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranitbiswas.cs@gmail.com)
+<br>
+![](https://visitcount.itsvg.in/api?id=RhoNit&icon=0&color=0)
 
 <div>
   <h1 align="center">
@@ -34,8 +36,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RhoNit?color=e05d44&labelColor=ce4630&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
     
-  <!-- <a href="https://github.com/RhoNit">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=RhoNit&style=for-the-badge&color=E1AD0E&lcolor=c79600&logo=Ghostery&logoColor=white"/>
+  <!-- <a href="https://visitcount.itsvg.in/api?id=RhoNit">
+    <img alt="views" title="GitHub profile views" src=""/>
   </a> -->
 </p>
 
