@@ -7,7 +7,7 @@
   <h1 align="center">
     Hey everyone! 👋🏻<br>
     <p>
-      It's me, Ranit. I work as Golang Software Engineer at <img src="/media/exotel.png" width=300/>
+      It's me, Ranit. I work as a Golang Software Engineer at <img src="/media/exotel.png" width=300/>
     </p>
   </h1>
 </div>
