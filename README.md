@@ -7,7 +7,7 @@
   <h1 align="center">
     Hey everyone! 👋🏻<br>
     <p>
-      It's me, Ranit... Software Engineer at...  <img src="https://www.incedoinc.com/wp-content/uploads/incedo-logo.png" width=200 />
+      It's me, Ranit. I work as Golang Software Engineer at <img src="/media/exotel.png" width=300/>
     </p>
   </h1>
 </div>
