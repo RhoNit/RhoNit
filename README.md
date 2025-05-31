@@ -7,7 +7,7 @@
   <h1 align="center">
     Hey everyone! 👋🏻<br>
     <p>
-      It's me, Ranit. I work as a Golang Software Engineer at <img src="/media/exotel.png" width=300/>
+      It's me, Ranit. I'm working as a Software Engineer at <img src="/media/exotel.png" width=300/>
     </p>
   </h1>
 </div>
@@ -18,7 +18,7 @@
   👨🏻‍🎓 CS graduate from SCOE, Pune
   🚀 Holds key interest in Backend Development & Databases
   🛠️ Main Languages: Go, Rust, C++, Python
-  🧑🏻‍💻 Currently I'm crafting my skill in Go-ecosystem & looking for opportunities in golang backend development
+  🧑🏻‍💻 Currently I'm crafting my skill in Go-ecosystem & looking for opportunities in Golang backend development
   📧 If you wanna connect with me, plz drop me a mail
 ```
 <br>
